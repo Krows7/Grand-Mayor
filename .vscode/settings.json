@@ -1,0 +1,10 @@
+{
+    "C_Cpp.default.compilerPath": "",
+    "files.associations": {
+        "*.c": "c",
+        "map3.h": "c",
+        "assets.h": "c",
+        "core.h": "c",
+        "neslib.h": "c"
+    }
+}

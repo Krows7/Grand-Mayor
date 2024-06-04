@@ -1,0 +1,7 @@
+old/
+Mesen.exe
+tmp/
+build/
+true/
+palletes/
+src/*.o
